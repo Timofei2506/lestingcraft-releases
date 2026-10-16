@@ -1,2 +1,19 @@
-# lestingcraft-releases
-Public downloads and test releases for LestingCraft: New Era. Windows x64 builds, changelog and screenshots; project source remains private.
+# LestingCraft: New Era
+
+Публичная страница скачивания **готовых сборок**. Исходный проект и инфраструктурные ключи здесь не публикуются.
+
+## Скачать
+
+**[Windows x64 — 0.3.0-living-test](https://github.com/Timofei2506/lestingcraft-releases/releases/download/v0.3.0-living-test/LestingCraft-Windows-x64-0.3.0-living-test.zip)** · открытая тестовая версия, не законченный стабильный релиз.
+
+[Все файлы выпуска](https://github.com/Timofei2506/lestingcraft-releases/releases/tag/v0.3.0-living-test) · [Скриншоты](Screenshots/0.3.0-living-test) · [Сообщить об ошибке](https://github.com/Timofei2506/lestingcraft-releases/issues)
+
+Распакуйте весь ZIP и запустите `LestingCraft.exe`. Unity/Hub/SDK не нужны. Платформа — Windows 10/11 x64 с Direct3D 11; около 660 МБ для игровых файлов плюс место для ZIP и сохранений. Точные минимальные требования и FPS пока не установлены.
+
+Подробности запуска — в `README-Windows.txt`, изменения — в `CHANGELOG.md`. Сверить загрузку можно по `SHA256SUMS.txt`.
+
+Это текущая тестовая версия: первая глава, физика, материалы, жители/кот, аккаунты и достижения; остальные четыре сюжетные главы ещё не готовы. Кооператив 2–8, но длительный тест восьми игроков пока не проводился. Бесплатный сервер может достигать лимитов. Аппаратный RTX не реализован. Приватный лаунчер с приглашениями не входит в публичный выпуск.
+
+EXE действительно запускался в облаке с Direct3D11 WARP и прошёл автоматические графические проверки. WARP — программная графика, не FPS-бенчмарк пользовательского GPU. Скриншоты получены из этого EXE, не концепт-арты.
+
+Сборка без отдельной подписи издателя. Не отключайте защиту системы; используйте контрольные суммы. Не публикуйте в Issues пароли, токены и коды восстановления.
