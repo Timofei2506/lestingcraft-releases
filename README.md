@@ -6,7 +6,7 @@
 
 **[Windows x64 — 0.3.2-usability](https://github.com/Timofei2506/lestingcraft-releases/releases/download/v0.3.2-usability/LestingCraft-Windows-x64-0.3.2-usability.zip)** · prerelease.
 
-[Релиз и все файлы](https://github.com/Timofei2506/lestingcraft-releases/releases/tag/v0.3.2-usability) · [Реальные кадры](Screenshots/0.3.2-usability) · [Сообщить об ошибке](https://github.com/Timofei2506/lestingcraft-releases/issues)
+[Релиз и все файлы](https://github.com/Timofei2506/lestingcraft-releases/releases/tag/v0.3.2-usability) · [Сообщить об ошибке](https://github.com/Timofei2506/lestingcraft-releases/issues)
 
 Распакуйте весь ZIP и запустите `LestingCraft.exe`. Unity/Hub/SDK устанавливать не нужно. Windows 10/11 x64, Direct3D 11; точные минимальные требования и FPS ещё не установлены. Это не Android-версия.
 
@@ -18,3 +18,6 @@ Windows EXE действительно запущен в облаке; 11 PNG �
 Остальные четыре сюжетные главы не завершены; кооператив 2–8 без длительного стресс-теста восьмерых; бесплатный сервер может достигать лимитов; аппаратный RTX отсутствует. Перед запуском старых сохранений сделайте резервную копию.
 
 Сборка без отдельной подписи издателя. Не отключайте защиту ПК; проверяйте SHA256SUMS.txt. Не публикуйте пароли, коды восстановления, токены или личные сохранения. Старые тестовые версии оставлены в истории релизов.
+
+
+Скриншоты не публикуются. Ранее размещённые папки изображений удалены из текущей публичной ветки по просьбе автора. Игровые сборки оставлены. Старые Git-коммиты/кеши этим изменением не переписываются.
